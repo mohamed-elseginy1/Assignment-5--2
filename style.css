@@ -1,0 +1,12 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+  text-transform: uppercase;
+}
+.two{
+  text-transform: capitalize;
+}
+.three{
+  text-transform: lowercase;
+}
